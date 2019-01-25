@@ -1,2 +1,2 @@
 myApp
-this is my App
+this is my App version2
